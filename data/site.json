@@ -7,7 +7,7 @@
             "label_en": "Company Name",
             "placeholder_zh": "如：广州市***自动化设备有限公司",
             "placeholder_en": "e.g. Guangzhou *** Automation Co., Ltd.",
-            "value": "广州潜龙科技有限公司",
+            "value": "广州潜龙科技有限公司2",
             "images": [
                 57902,
                 57904
@@ -123,8 +123,8 @@
             "placeholder_en": "e.g. ISO9001 \/ FDA \/ ROHS",
             "value": "ISO9001",
             "images": [
-                58050,
-                58051
+                58051,
+                58050
             ]
         },
         {
@@ -144,6 +144,18 @@
             "value": "在充满竞争的自动化领域中，我司依托实惠的价格、优秀的品质、完善的售后服务，享有良好的声誉。\n我们热忱欢迎国内外客商来访洽谈打样。我公司另有一个子品牌“鸽子”，针对小微企业，具有较好的价格优势。",
             "images": [
                 57902
+            ]
+        },
+        {
+            "key": "company_video2",
+            "label_zh": "企业宣传片",
+            "label_en": "Company Video",
+            "placeholder_zh": "上传你的企业宣传片",
+            "placeholder_en": "Upload your company video",
+            "value": "我们公司的宣传片",
+            "videos": [
+                58110,
+                58112
             ]
         }
     ],
@@ -294,7 +306,7 @@
     "products": [
         {
             "title": "土豆削皮机999",
-            "content": "土豆削皮机999\n\n土豆削皮机999\n\n<img class=\"alignnone size-full wp-image-57904\" src=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/pexels-cup-of-couple-8473764.jpg\" alt=\"\" width=\"800\" height=\"533\" \/>",
+            "content": "[video width=\"1920\" height=\"1080\" mp4=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/15046463_1920_1080_30fps-1.mp4\"][\/video]土豆削皮机999\n\n土豆削皮机999\n\n<img class=\"alignnone size-full wp-image-57904\" src=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/pexels-cup-of-couple-8473764.jpg\" alt=\"\" width=\"800\" height=\"533\" \/>",
             "category_l1": "c1791807079228_2151",
             "category_l2": "c1791807091036_885",
             "recommend": true
@@ -329,5 +341,10 @@
             "content": "所属的方式地方\n\n所属的方式地方"
         }
     ],
-    "updated_at": "2026-10-14 09:54:20"
+    "updated_at": "2026-10-14 18:02:10",
+    "theme": {
+        "products_per_page": 24,
+        "articles_per_page": 24,
+        "brand_color": "#4a5568"
+    }
 }
