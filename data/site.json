@@ -7,7 +7,7 @@
             "label_en": "Company Name",
             "placeholder_zh": "如：广州市***自动化设备有限公司",
             "placeholder_en": "e.g. Guangzhou *** Automation Co., Ltd.",
-            "value": "广州测试科技有限公司",
+            "value": "广州潜龙科技有限公司",
             "images": [
                 57902,
                 57904
@@ -329,5 +329,5 @@
             "content": "所属的方式地方\n\n所属的方式地方"
         }
     ],
-    "updated_at": "2026-10-13 21:26:20"
+    "updated_at": "2026-10-14 09:54:20"
 }
