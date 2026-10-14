@@ -9,8 +9,8 @@
             "placeholder_en": "e.g. Guangzhou *** Automation Co., Ltd.",
             "value": "广州潜龙科技有限公司2",
             "images": [
-                57902,
-                57904
+                57904,
+                57902
             ]
         },
         {
@@ -165,56 +165,64 @@
             "label_en": "Website",
             "value": "https:\/\/geogofair.com",
             "placeholder_zh": "https:\/\/www.example.com（有官网请填写）",
-            "placeholder_en": ""
+            "placeholder_en": "",
+            "images": []
         },
         {
             "label_zh": "联系人",
             "label_en": "Contact Person",
             "value": "李经理",
             "placeholder_zh": "如：张经理",
-            "placeholder_en": ""
+            "placeholder_en": "",
+            "images": []
         },
         {
             "label_zh": "地址",
             "label_en": "Address",
             "value": "广州市天河区沙太南路85号金企商务中心66号厂房",
             "placeholder_zh": "详细地址",
-            "placeholder_en": ""
+            "placeholder_en": "",
+            "images": []
         },
         {
             "label_zh": "电话",
             "label_en": "Telephone",
             "value": "020-8069****",
             "placeholder_zh": "如：020-8069****",
-            "placeholder_en": ""
+            "placeholder_en": "",
+            "images": []
         },
         {
             "label_zh": "手机",
             "label_en": "Mobile Phone",
             "value": "1352963****",
             "placeholder_zh": "如：135****1234",
-            "placeholder_en": ""
+            "placeholder_en": "",
+            "images": []
         },
         {
             "label_zh": "微信号",
             "label_en": "Wechat",
             "value": "paygofair2",
             "placeholder_zh": "微信号或上传二维码",
-            "placeholder_en": ""
+            "placeholder_en": "",
+            "images": []
         },
         {
             "label_zh": "邮箱",
             "label_en": "E-mail",
             "value": "gofair@qq.com",
             "placeholder_zh": "如：sales@example.com",
-            "placeholder_en": ""
+            "placeholder_en": "",
+            "images": []
         },
         {
             "label_zh": "Whatsapp",
             "label_en": "New Item",
             "value": "86-1352963****",
             "placeholder_zh": "",
-            "placeholder_en": ""
+            "placeholder_en": "",
+            "images": []
         }
     ],
     "platforms": [
@@ -306,7 +314,7 @@
     "products": [
         {
             "title": "土豆削皮机999",
-            "content": "[video width=\"1920\" height=\"1080\" mp4=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/15046463_1920_1080_30fps-1.mp4\"][\/video]土豆削皮机999\n\n土豆削皮机999\n\n<img class=\"alignnone size-full wp-image-57904\" src=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/pexels-cup-of-couple-8473764.jpg\" alt=\"\" width=\"800\" height=\"533\" \/>",
+            "content": "<p>[video width=\"1920\" height=\"1080\" mp4=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/15046463_1920_1080_30fps-2.mp4\"][\/video]<\/p>\n<p>土豆削皮机999<\/p>\n<p><img class=\"alignnone size-full wp-image-57904\" src=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/pexels-cup-of-couple-8473764.jpg\" alt=\"\" width=\"800\" height=\"533\" \/><\/p>",
             "category_l1": "c1791807079228_2151",
             "category_l2": "c1791807091036_885",
             "recommend": true
@@ -341,10 +349,12 @@
             "content": "所属的方式地方\n\n所属的方式地方"
         }
     ],
-    "updated_at": "2026-10-14 18:02:10",
+    "updated_at": "2026-10-14 20:45:31",
     "theme": {
         "products_per_page": 24,
         "articles_per_page": 24,
+        "products_per_row": 4,
+        "articles_per_row": 4,
         "brand_color": "#4a5568"
     }
 }
