@@ -19,7 +19,7 @@
             "label_en": "City\/Province\/Country",
             "placeholder_zh": "如：中国广东省广州市",
             "placeholder_en": "e.g. Guangzhou\/Guangdong\/China",
-            "value": "中国广东广州"
+            "value": "中国广东广州2"
         },
         {
             "key": "brand_name",
@@ -315,15 +315,21 @@
         {
             "title": "土豆削皮机999",
             "content": "<p>[video width=\"1920\" height=\"1080\" mp4=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/15046463_1920_1080_30fps-2.mp4\"][\/video]<\/p>\n<p>土豆削皮机999<\/p>\n<p><img class=\"alignnone size-full wp-image-57904\" src=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/pexels-cup-of-couple-8473764.jpg\" alt=\"\" width=\"800\" height=\"533\" \/><\/p>",
-            "category_l1": "c1791807079228_2151",
-            "category_l2": "c1791807091036_885",
+            "category_l1": "",
+            "category_l2": "",
+            "category_l1_label": "",
+            "category_l2_label": "",
+            "category_labels": [],
             "recommend": true
         },
         {
             "title": "土豆削皮机23323",
             "content": "土豆削皮机23323",
-            "category_l1": "c1791807079228_2151",
-            "category_l2": "c1791807091036_885",
+            "category_l1": "",
+            "category_l2": "",
+            "category_l1_label": "",
+            "category_l2_label": "",
+            "category_labels": [],
             "recommend": true
         }
     ],
@@ -349,7 +355,7 @@
             "content": "所属的方式地方\n\n所属的方式地方"
         }
     ],
-    "updated_at": "2026-10-15 16:50:55",
+    "updated_at": "2026-10-15 17:19:10",
     "theme": {
         "products_per_page": 24,
         "articles_per_page": 24,
