@@ -2,6 +2,18 @@
     "version": "zh",
     "about": [
         {
+            "key": "company_video2",
+            "label_zh": "企业宣传片",
+            "label_en": "Company Video",
+            "placeholder_zh": "上传你的企业宣传片",
+            "placeholder_en": "Upload your company video",
+            "value": "我们公司的宣传片",
+            "videos": [
+                58110,
+                58112
+            ]
+        },
+        {
             "key": "company_name",
             "label_zh": "企业名称",
             "label_en": "Company Name",
@@ -144,18 +156,6 @@
             "value": "在充满竞争的自动化领域中，我司依托实惠的价格、优秀的品质、完善的售后服务，享有良好的声誉。\n我们热忱欢迎国内外客商来访洽谈打样。我公司另有一个子品牌“鸽子”，针对小微企业，具有较好的价格优势。",
             "images": [
                 57902
-            ]
-        },
-        {
-            "key": "company_video2",
-            "label_zh": "企业宣传片",
-            "label_en": "Company Video",
-            "placeholder_zh": "上传你的企业宣传片",
-            "placeholder_en": "Upload your company video",
-            "value": "我们公司的宣传片",
-            "videos": [
-                58110,
-                58112
             ]
         }
     ],
@@ -368,5 +368,5 @@
         "brand_bg": "#ffcccc",
         "logo_height": 100
     },
-    "updated_at": "2026-10-15 22:13:58"
+    "updated_at": "2026-10-15 22:30:58"
 }
