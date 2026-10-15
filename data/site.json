@@ -349,12 +349,13 @@
             "content": "所属的方式地方\n\n所属的方式地方"
         }
     ],
-    "updated_at": "2026-10-14 20:45:31",
+    "updated_at": "2026-10-15 16:50:55",
     "theme": {
         "products_per_page": 24,
         "articles_per_page": 24,
         "products_per_row": 4,
         "articles_per_row": 4,
-        "brand_color": "#4a5568"
+        "brand_color": "#4a5568",
+        "logo_height": 48
     }
 }
