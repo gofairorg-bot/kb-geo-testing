@@ -355,13 +355,13 @@
             "content": "所属的方式地方\n\n所属的方式地方"
         }
     ],
-    "updated_at": "2026-10-15 19:50:35",
     "theme": {
         "products_per_page": 24,
         "articles_per_page": 24,
         "products_per_row": 4,
         "articles_per_row": 4,
-        "brand_color": "#4a5568",
+        "brand_color": "#ff3c2e",
         "logo_height": 48
-    }
+    },
+    "updated_at": "2026-10-15 20:25:58"
 }
